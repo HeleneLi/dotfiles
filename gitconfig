@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ch.lipp@yahoo.com
+	name = Helene Lipp
